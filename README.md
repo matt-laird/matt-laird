@@ -6,7 +6,7 @@
   </a>
   <hr />
   <a href="https://app.daily.dev/hvk500">
-    <img src="https://api.daily.dev/devcards/v2/U-UK0gIIk.png?type=wide&r=xyd" width="652" alt="Matthew Laird's Dev Card"/>
+    <img src="./devcard.png" width="356" alt="Matthew Laird's Dev Card"/>
   </a>
 </div>
 
