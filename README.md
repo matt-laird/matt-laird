@@ -3,9 +3,10 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/matthew-laird-3a8581185/">
     <img src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86" alt="LinkedIn" />
-  </a><br />
+  </a>
+  <hr />
   <a href="https://app.daily.dev/hvk500">
-    <img src="https://api.daily.dev/devcards/v2/U-UK0gIIk.png?type=wide&r=ryv" width="356" alt="Matthew Laird's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/U-UK0gIIk.png?type=wide&r=xyd" width="652" alt="Matthew Laird's Dev Card"/>
   </a>
 </div>
 
