@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Hello, I am Matthew
 
 <div align="left">
   <a href="https://www.linkedin.com/in/matthew-laird-3a8581185/">
@@ -10,8 +10,13 @@
   </a>
 </div>
 
-## I am Matthew Laird!
+## 🔍 My passions
 
-- Loves a freshly brewed cup of coffee
-- Loves his cat...
-- Enjoy tinkering and building cool stuff
+ - 🖨️ 3D Printing & Design: Creating functional models to solve real-world problems.
+ - 🛠️ Platform Engineering: Working with Docker, Kubernetes, and containerized environments to build resilient, scalable systems.
+ - 📦 Containers & Orchestration: Continuously learning and refining my skills with Kubernetes, Helm and Docker.
+ - 💡 Open Source & Internet Freedom: Advocating for open software and a free, decentralized internet.
+ - 🔧 Always Learning: If there’s something new to try, I am already probably giving it a go.
+ - 🏠 Self-Hosting & Home Automation: Setting up and maintaining personal servers and networks for custom solutions and enhanced privacy.
+
+I’m here to share projects, collaborate, and learn from the open-source community.
